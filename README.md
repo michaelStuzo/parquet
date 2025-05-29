@@ -8,6 +8,8 @@ Couldn't make it work with the latest version of `hyparquet` (v1.14.0) as it alw
 Error: No "exports" main defined in /Users/myali/Documents/Code/parquet/node_modules/hyparquet/package.json
 ```
 
+Also has a lot of essential issues such as async buffers which require creating additional workarounds.
+
 ## [@dsnp/parquetjs](https://www.npmjs.com/package/@dsnp/parquetjs)
 
 Is a supportable library based on `parquetjs` and `parquetjs-lite` but with some fixes and improvements.
